@@ -8,3 +8,5 @@ This is a study project for Yandex.Afisha
 Инструменты:
 
 Учебный проект выполнялся посредством анализа данных на Python с применением библиотек pandas, numpy, scipy(stats), datetime в Jupyter Notebook, для визуализации использовались библиотеки: matplotlib, plotly, seaborn.
+
+file:///Users/admin2/Downloads/Ya.Afisha.html
