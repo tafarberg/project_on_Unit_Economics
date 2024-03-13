@@ -1,4 +1,4 @@
-# project_on_Unit_Economics
+# project_on_unit_economics
 This is a study project for Yandex.Afisha
 
 Цель учебного проекта:
